@@ -1,5 +1,10 @@
 # RadiusAssignment
 
+Logic. - 
+As per my undserstanding of HTML page - 
+1. Getting Lead data from meta of html page 
+2. Getting Seller/agent data from property details using jsup query.
+
 Method 1. 
   How To Run . 
   1. Go to Radius Folder
